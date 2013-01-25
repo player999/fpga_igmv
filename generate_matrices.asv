@@ -1,0 +1,4 @@
+function generate_matrices(A, fname_prefix)
+for i = 1:size(A,1)
+    fid = fopen([])
+end
